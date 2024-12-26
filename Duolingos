@@ -1,0 +1,37 @@
+{
+  "apps": [
+    {
+    {
+      "name": "Duolingo",
+      "version": "6.123.0",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "Starfiles.co",
+      "subtitle": "Duolingo on Starfiles - https://starfiles.co/file/RK1RsF8Kow9n",
+      "versionDate": "2021-10-27T22:27:43+00:00",
+      "downloadURL": "https://sts.st/d/RK1RsF8Kow9n",
+      "iconURL": "https://sts.st/bi/com.duolingo.DuolingoMobile",
+      "tintColor": "5bbad5",
+      "size": 62876782
+    },
+  ],
+  "name": "Duolingos",
+  "subtitle": "Latest Duolingo ipa's",
+  "identifier": "co.starfiles.public.init",
+  "website": "https://starfiles.co",
+  "sourceURL": "https://starfiles.co",
+  "iconURL": "https://sts.st/d/fvkY13CKnWRx",
+  "sourceIconURL": "https://sts.st/d/fvkY13CKnWRx",
+  "news": [
+    {
+      "title": "Welcome to Starfiles Repo (Top 10.0k Apps) - starfiles.co!",
+      "identifier": "co.starfiles.public.welcome",
+      "caption": "Tap to open website",
+      "tintColor": "5bbad5",
+      "imageURL": "https://sts.st/d/fvkY13CKnWRx",
+      "url": "https://sts.st/f/public",
+      "date": "2021-01-01",
+      "notify": true
+    }
+  ],
+  "status": true
+}
